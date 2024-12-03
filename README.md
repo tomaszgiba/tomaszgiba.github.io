@@ -6,3 +6,4 @@ my howto's:
 links:
 - [linkedin.com/in/tomaszgiba/](linkedin.com/in/tomaszgiba/)
 - [twitter](https://x.com/tomaszgiba)
+- [youtube](www.youtube.com/@tomaszgiba)
