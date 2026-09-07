@@ -1,4 +1,4 @@
-- [Using Sony RX100 mk4 As Webcam in Ubuntu Linux](/zazarobky/index.html)
+- [Zazarobky](/zazarobky/index.html)
 
 my howto's:
 - [How To Put Your Handwritten Sign In PDF Document in Ubuntu Linux](/how-to-sign-pdfs-with-handwritten-sign-in-ubuntu-linux.html)
