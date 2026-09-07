@@ -1,4 +1,4 @@
-- [Zazarobky](/zazarobky/index.html) (currency finances calculator tool)
+- [Zazarobky](/zazarobky/index.html) (currency finances calculator tool, T.V. - totaly vibecoded)
 
 my howto's:
 - [How To Put Your Handwritten Sign In PDF Document in Ubuntu Linux](/how-to-sign-pdfs-with-handwritten-sign-in-ubuntu-linux.html)
