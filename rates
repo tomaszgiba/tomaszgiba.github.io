@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-09-17T12:00:00+00:00",
+  "base": "EUR",
+  "rates_count": 2,
+  "rates": {
+    "USD": 1.155,
+    "EUR": 1.0
+  },
+  "raw": []
+}
