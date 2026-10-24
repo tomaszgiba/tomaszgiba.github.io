@@ -1,5 +1,8 @@
 - [Zazarobky](/zazarobky/index.html) (currency finances calculator tool, T.V. - totaly vibecoded)
 
+slowblog:
+- [Oct 2026 thoughts](/oct-2026-thoughts.html)
+
 my howto's:
 - [How To Put Your Handwritten Sign In PDF Document in Ubuntu Linux](/how-to-sign-pdfs-with-handwritten-sign-in-ubuntu-linux.html)
 - [How To Make awsvpnclient Work in Ubuntu 24.04](https://gist.github.com/tomaszgiba/4b0c04a6b4b0048e6a582b19133014b7)
