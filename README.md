@@ -1,7 +1,7 @@
 - [Zazarobky](/zazarobky/index.html) (currency finances calculator tool, T.V. - totaly vibecoded)
 
 slowblog:
-- [Oct 2026 thoughts](/oct-2026-thoughts.html)
+- [Oct 2026 thoughts](/slowblog/oct-2026-thoughts.html)
 
 my howto's:
 - [How To Put Your Handwritten Sign In PDF Document in Ubuntu Linux](/how-to-sign-pdfs-with-handwritten-sign-in-ubuntu-linux.html)
